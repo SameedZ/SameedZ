@@ -1,6 +1,6 @@
 # Hi there, I'm Sameed 👋 
 
-## I'm a Student, UX UI Designer, Full Stack Developer, and Teacher!!
+## I'm a Full Stack Developer, UX UI Designer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other designers & developers
